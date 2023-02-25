@@ -1,0 +1,2 @@
+# mikethinks
+django blog application
